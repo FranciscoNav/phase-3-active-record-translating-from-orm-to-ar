@@ -1,2 +1,4 @@
-class Dog
+# require_relative "../config/environment.rb"
+
+class Dog < ActiveRecord::Base
 end
